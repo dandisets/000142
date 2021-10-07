@@ -29,8 +29,8 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
-citation: 20210923_AIBS_Patchseq_human (2021). (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000142/draft
+citation: 20210923_AIBS_Patchseq_human (2021). (Version 0.211007.1926) [Data set].
+  DANDI archive. https://doi.org/10.48324/dandi.000142/0.211007.1926
 contributor:
 - affiliation:
   - identifier: https://ror.org/00cv1019
@@ -74,9 +74,11 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2021-09-23T23:50:31.083146+00:00'
+datePublished: '2021-10-07T19:26:11.527881+00:00'
 description: U01 Lein PatchSeq upload September 2021
+doi: 10.48324/dandi.000142/0.211007.1926
 ethicsApproval: []
-id: DANDI:000142/draft
+id: DANDI:000142/0.211007.1926
 identifier: DANDI:000142
 keywords:
 - Patch-seq
@@ -85,16 +87,28 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000142/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000142/0.211007.1926/assets.yaml
 name: 20210923_AIBS_Patchseq_human
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-bepyjdpw
+publishedBy:
+  endDate: '2021-10-07T19:26:11.527881+00:00'
+  id: urn:uuid:28ceba79-9fbb-499d-a4f6-55c233d670b0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-10-07T19:26:11.527881+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:e6c40d8e-9ce4-4307-b8d9-ec281b4894f8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget:
 - human neocortical neurons
-url: https://dandiarchive.org/dandiset/000142/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000142/0.211007.1926
+version: 0.211007.1926
 wasGeneratedBy: []
