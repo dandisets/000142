@@ -20,6 +20,7 @@ assetsSummary:
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 26800026646
+  numberOfCells: 717
   numberOfFiles: 717
   numberOfSubjects: 68
   schemaKey: AssetsSummary
@@ -29,7 +30,7 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
-citation: 20210923_AIBS_Patchseq_human (2022). (Version draft) [Data set]. DANDI archive.
+citation: 20210923_AIBS_Patchseq_human (2023). (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000142/draft
 contributor:
 - affiliation:
@@ -90,7 +91,7 @@ name: 20210923_AIBS_Patchseq_human
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-bepyjdpw
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget:
